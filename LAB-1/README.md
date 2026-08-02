@@ -1,4 +1,4 @@
-# Design and Analysis of Algorithms - Lab 01
+# Design and Analysis of Algorithms - Lab 01(PART-1)
 
 ## Objective
 
@@ -16,6 +16,17 @@ The objective of this laboratory is to understand the fundamental concepts of al
 | Q4 | Tower of Hanoi |
 | Q5 | Partition Point |
 | Q6 | Element Uniqueness |
+
+---
+### Part 2
+
+| No. | Program |
+|-----|---------|
+| 1 | Linear Search using 1D Array |
+| 2 | Linear Search using 2D Array |
+| 3 | Merge Two Sorted Arrays |
+| 4 | Iterative Binary Search |
+| 5 | Matrix Operations (Addition, Multiplication and Transpose) |
 
 ---
 
