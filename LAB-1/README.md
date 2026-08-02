@@ -1,4 +1,4 @@
-# Design and Analysis of Algorithms - Lab 01
+# Design and Analysis of Algorithms - Lab 01(PART-1)
 
 ## Objective
 
@@ -42,6 +42,17 @@ The following graphical visualizations have been included to support the analysi
 - Tower of Hanoi (Number of Moves vs Number of Disks)
 
 These graphs help visualize the behavior, efficiency, and growth of different algorithms.
+
+---
+### Part 2
+
+| No. | Program |
+|-----|---------|
+| 1 | Linear Search using 1D Array |
+| 2 | Linear Search using 2D Array |
+| 3 | Merge Two Sorted Arrays |
+| 4 | Iterative Binary Search |
+| 5 | Matrix Operations (Addition, Multiplication and Transpose) |
 
 ---
 
@@ -90,5 +101,8 @@ LAB-1
 B.Tech – Computer Science & Engineering
 
 IIIT Bhubaneswar
+<<<<<<< HEAD
 
 Academic Year: 2026
+=======
+>>>>>>> 1fcac659177c370b109812e16cc1650b24a9167b
