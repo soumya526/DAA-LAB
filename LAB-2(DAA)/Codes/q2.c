@@ -26,7 +26,7 @@ int main()
         /* Modified Merge Sort :
            same complexity but multiplied by 1.3
            only to separate the curves */
-        modifiedMergeSort = 1.3 * n * log2(n);
+        modifiedMergeSort = 1.3 * n * log3(n);
 
         fprintf(fp,"%d,%.2lf,%.2lf\n",
                 n,
